@@ -1,0 +1,116 @@
+===== Review =====
+
+
+*** Relevance for the symposium (.): 1: Significantly Relevant 2:
+Relevant 3: Marginally Relevant
+
+Evaluation=Marginally Relevant (3)
+
+*** Reviewer familiarity with the subject (.): 3: Very familiar with the
+subject (expert) 2: Moderatly familiar (knowledgeable in the area,
+though not an expert) 1: Not acquainted (my evaluation is that of an
+informed outsider)
+
+Evaluation=Very familiar with the subject (expert) (3)
+
+*** 1: Summary (A brief description of the paper.): o artigo descreve a
+implementação de um jogo multi-player desenvolvido por estudantes no
+contexto de um trabalho final de graduação.
+
+*** 2: Paper strength (What are the positive aspects of this paper,
+specially with respect to Originality and novelty; Technical soundness
+and contribution; Readability, organization and presentation; Comparison
+to previous work; Evaluation.): o artigo descreve a implementação de um
+jogo multi-player desenvolvido por estudantes no contexto de um trabalho
+final de graduação.
+
+*** 3: Paper weakness (What are the negative aspects of this paper,
+specially with respect to Originality and novelty; Technical soundness
+and contribution; Readability, organization and presentation; Comparison
+to previous work; Evaluation.): o artigo não apresenta as lições
+aprendidas pelos autores, tal que elas pudessem servir de "inspiração" 
+para outors profissionais da área.
+
+*** 4: Comments to authors (Comments and suggestions for improving the
+paper.): o artigo não apresenta as lições aprendidas pelos autores, tal
+que elas pudessem servir de "inspiração"  para outors profissionais da
+área. sugiro aos autores enfocarem nestas lições e verificarem artigos
+anteriores de um congresso antes de submeter o artigo para a referida
+conferência.
+
+
+===== Review =====
+
+
+*** Relevance for the symposium (.): 1: Significantly Relevant 2:
+Relevant 3: Marginally Relevant
+
+Evaluation=Marginally Relevant (3)
+
+*** Reviewer familiarity with the subject (.): 3: Very familiar with the
+subject (expert) 2: Moderatly familiar (knowledgeable in the area,
+though not an expert) 1: Not acquainted (my evaluation is that of an
+informed outsider)
+
+Evaluation=Moderatly familiar (knowledgeable in the area, though not an expert) (2)
+
+*** 1: Summary (A brief description of the paper.): This paper describes
+the implementation of an online game as an academic class project.
+
+*** 2: Paper strength (What are the positive aspects of this paper,
+specially with respect to Originality and novelty; Technical soundness
+and contribution; Readability, organization and presentation; Comparison
+to previous work; Evaluation.): The paper is an interesting read.
+
+*** 3: Paper weakness (What are the negative aspects of this paper,
+specially with respect to Originality and novelty; Technical soundness
+and contribution; Readability, organization and presentation; Comparison
+to previous work; Evaluation.): The paper is not a research paper and
+makes no contribution to the field.
+
+*** 4: Comments to authors (Comments and suggestions for improving the
+paper.): The paper is really an experience report and, while it is an
+interesting story to read and the project described was clearly
+substantial, there are no elements of a research paper. There are no
+research questions, research methodology, findings, or contributions. It
+is not at all clear what new knowledge about software engineering in
+general has been revealed in this work.
+
+
+===== Review =====
+
+
+*** Relevance for the symposium (.): 1: Significantly Relevant 2:
+Relevant 3: Marginally Relevant
+
+Evaluation=Marginally Relevant (3)
+
+*** Reviewer familiarity with the subject (.): 3: Very familiar with the
+subject (expert) 2: Moderatly familiar (knowledgeable in the area,
+though not an expert) 1: Not acquainted (my evaluation is that of an
+informed outsider)
+
+Evaluation=Moderatly familiar (knowledgeable in the area, though not an expert) (2)
+
+*** 1: Summary (A brief description of the paper.): The paper briefly
+describes the Strings Fighter project focusing on presenting main
+features and discussing development issues.
+
+*** 2: Paper strength (What are the positive aspects of this paper,
+specially with respect to Originality and novelty; Technical soundness
+and contribution; Readability, organization and presentation; Comparison
+to previous work; Evaluation.): The application itself is very
+interesting and the subject could lead to interesting discussions.
+
+*** 3: Paper weakness (What are the negative aspects of this paper,
+specially with respect to Originality and novelty; Technical soundness
+and contribution; Readability, organization and presentation; Comparison
+to previous work; Evaluation.): The paper does not present details on
+development, architecture, validation, and so on, that would make it
+possible to assess its contributions.
+
+*** 4: Comments to authors (Comments and suggestions for improving the
+paper.): In its current form, this paper is not a suitable submission
+for SBES. You need to, at least, add more details, metrics, development
+and validation issues to base your comments on.
+

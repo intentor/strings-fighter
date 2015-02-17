@@ -1,0 +1,66 @@
+http://scratch.mit.edu/forums/viewtopic.php?id=2798&p=1
+
+Thoughs on Fighting Game IA
+"human anticipation and pattern recognition is good"
+"avoid sheer mechanical reaction speed"
+"limiting the CPU to “human reaction time” makes it almost impossible to code competitive AI."
+"Partially it's autonomic "wiring" that when an attack is initiated, a certain move is initiated in response."
+
+1. Chase the player when you''re healthy
+2. Run when hurting
+3. Attack when you can
+4. move to where you can attack when you can''t
+
+"finite state machine with simple pattern recognition!"
+
+"t will probably take a very long time to find any balance between these two extremes. Either the computer will be impossible to beat, or it’ll lose to laughably simple exploits which can be repeated forever without it learning anything. Will we ever see adaptive AI that remains challenging after extensive play and does more than teach bad habits?"
+
+
+
+
+
+
+
+
+
+
+
+
+I would go with the finite state machine with simple pattern recognition!
+
+Make a table with all posibilities (should not be that many (since you controle it with the keyboard)).
+(with a posibility i mean:
+ex:
+1: in range for kick/not in range for punch/oponent is blocking
+)
+Then give the AI the same controles as the human player.
+
+Now you could make an A.I. recorder, witch look at you playing another person, finds witch posibilitie you are in, and record your action....
+if (close_enough_to_kick && oponent_dont_block_kick) kick :-)
+There should be more then 5 options on each posibility, and they should be rated on how well they did.
+
+You should not create the perfect fighter! (that would be booring to always loose, the human player is always slower, and smarter)
+
+Now when you have the big table of all the fighting posibilities, and all data is stored, you can start to create personalities!
+feks:
+a kicker: ( lower the rate on all punches)
+a boss: ( remove all with rates below this and that )
+
+Now in the game, find out what situation the player is in, find what action that are good... choose action (randomly or patterned) do action.
+
+to make it bether, you can mark every action(in a psiibility) with a timer!
+if the action was bad, mark it -10, and the AI will not do it for some time ( ten seconds... ??? )
+if the action was bad, mark it +10, witch means that this move works realy good!
+
+hope i helped, and that my englis is not to bad!
+
+
+
+
+
+
+
+
+The finite state machine is definately the way to go. At the broadest level, there are two states -- free to move and not free to move. Beyond "free to move", there''s states that correspond to the different distances from your opponent: too far to matter, jump kick distance, kicking distance, punching distance, knee/elbow distance, trapping distance (real fighting games never seem to get to the last two). If you''re too far to matter, move in. If you''re in jump kick distance, move in. If you''re in kicking distance, choose the fastest move for which you are in range or the move that precipitates the most devastating combo or simply move in to punching distance. If you''re in punching distance, choose the fastest move or the move that precipitates the most devastating combo. Or, for any of the above, just wait.
+
+To choose from one of the choices, you could vary the selections from character to character, or you could use the history of the character to choose. If the player frequently uses slow, devastating attacks, the AI should wait, then block, then counter. At a design level, you need only select "wait" as your action and let the "wait" command block and counter, rather than add states like "incoming attack" for which the action is to block. 

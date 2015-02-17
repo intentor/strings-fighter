@@ -1,0 +1,1 @@
+.*(?<function>getHitboxesForDying) = function\(\)(?<contents>[\s]*([\S]|[\s])*[\s]*)end;.*
